@@ -231,3 +231,15 @@ Release/
 *.hex
 *.map
 *.list
+# STM32CubeIDE Build & IDE Metadata
+Debug/
+Release/
+.settings/
+*.launch
+.project
+.cproject
+*.elf
+*.bin
+*.hex
+*.map
+*.list
