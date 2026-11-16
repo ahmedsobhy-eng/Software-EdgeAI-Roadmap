@@ -221,3 +221,13 @@ __pycache__/
 *.sqlite-journal
 *.data
 *Where.js
+
+
+# STM32CubeIDE Build Artifacts
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
