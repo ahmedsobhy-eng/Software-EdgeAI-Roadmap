@@ -243,3 +243,8 @@ Release/
 *.hex
 *.map
 *.list
+*.o
+*.out
+*~
+build/
+test_runner
